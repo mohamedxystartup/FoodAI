@@ -145,7 +145,7 @@ python manage.py runserver
 | Rôle | Personne |
 |------|----------|
 | CEO | Mohamed |
-| CTO | Dieuveil |
+| CTO | RODIM'S Dieuveil |
 | COO | Junior |
 
 ---
